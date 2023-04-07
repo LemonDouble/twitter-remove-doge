@@ -3,7 +3,7 @@
   "version": "1.0",
   "manifest_version": 3,
   "description": "Return the Twitter logo to its rightful owner, Larry.",
-  "permissions": ["activeTab"],
+  "permissions": [],
   "content_scripts": [
     {
       "matches": ["https://twitter.com/*"],
